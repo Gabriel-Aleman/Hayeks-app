@@ -1,5 +1,5 @@
 # Hayek's App
-En el presente manual aprender ́a de manera r ́apida y sencilla a instalar y usar Hayek’s
+En el presente manual aprender ́a de manera rápida y sencilla a instalar y usar Hayek’s
 app. Que le permitir ́a analizar informaci ́on financiera a partir de los estados financieros en sus
 respectivos bancos.
 

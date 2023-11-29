@@ -1,0 +1,4 @@
+DEBITO_COMPASS:Otros
+Pops:Comida
+UCR:Otros
+gato:Transporte
